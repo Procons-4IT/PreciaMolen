@@ -1,0 +1,32 @@
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Z_PreciaMolen]'))
+BEGIN
+CREATE TABLE [dbo].[Z_PreciaMolen](
+	[DocNum] [numeric](18, 0) NOT NULL,
+	[U_Phase] [nvarchar](50) NOT NULL,
+	[U_Seq] [nvarchar](50) NOT NULL,
+	[ItemCode] [nchar](20) NOT NULL,
+	[ProducedQty] [numeric](18, 4) NOT NULL,
+	[ItemName] [nchar](100) NULL,
+	[Warehouse] [nchar](20) NOT NULL,
+	[MaterialNo] [nchar](20) NOT NULL,
+	[MaterialName] [nchar](100) NULL,
+	[MaterialPlannedQty] [numeric](18, 0) NOT NULL,
+	[MaterialIssuedQty] [numeric](18, 0) NOT NULL,
+	[IssueDate] [datetime2](7) NULL,
+	[BatchNo] [nvarchar](50) NULL,
+	[IsProcessed] [nchar](1) NULL
+) ON [PRIMARY]
+END
+
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Z_PreciaMolen_Temp]'))
+BEGIN
+CREATE TABLE [dbo].[Z_PreciaMolen_Temp](
+	[DocNum] [numeric](18, 0)  NULL,
+	[U_Phase] [nvarchar](50) NOT NULL,
+	[U_Seq] [nvarchar](50) NOT NULL,
+	[ItemCode] [nchar](200) NOT NULL,
+	[ProducedQty] [numeric](18, 4)  NULL,
+	) ON [PRIMARY]
+END

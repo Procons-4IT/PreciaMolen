@@ -1,0 +1,18 @@
+<Application>
+	<Menus>
+		<action type="add">
+			<Menu Checked="0" Enabled="1" FatherUID="43525" Image="" Position="6" String="Production Setup"
+				Type="2" UniqueID="PR0001">
+					</Menu>
+
+      <Menu Checked="0" Enabled="1" FatherUID="PR0001" Image="" Position="0" String="Production Phase Setup"
+				Type="1" UniqueID="PR0002">
+      </Menu>
+
+      <Menu Checked="0" Enabled="1" FatherUID="PR0001" Image="" Position="1" String="Production  Sequence Setup"
+				Type="1" UniqueID="PR0003">
+      </Menu>
+		
+		</action>
+	</Menus>
+</Application>

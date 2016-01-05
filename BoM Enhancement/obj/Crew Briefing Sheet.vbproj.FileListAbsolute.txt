@@ -1,0 +1,112 @@
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.xml
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\obj\Debug\CrewBriefingSheet.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.xml
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\Source Code\Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.pdb
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.exe
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.xml
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.pdb
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.exe
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.pdb
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.xml
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\obj\Debug\CrewBriefingSheet.Resources.resources
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140101_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.xml
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.pdb
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.exe
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.pdb
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.xml
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\obj\Debug\CrewBriefingSheet.Resources.resources
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\AddonSDK\Crew briefing Sheet\Source Code\20140102_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.xml
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.xml
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\obj\Debug\CrewBriefingSheet.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140102_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.xml
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.xml
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\obj\Debug\CrewBriefingSheet.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140103_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.xml
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\bin\Debug\Crew Briefing Sheet.xml
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\obj\Debug\CrewBriefingSheet.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Crew briefing Sheet\20140106_Crew briefing  Sheet\obj\Debug\Crew Briefing Sheet.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Crew Briefing Sheet.xml
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Crew Briefing Sheet.pdb
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\Crew Briefing Sheet.exe
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\Crew Briefing Sheet.pdb
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\Crew Briefing Sheet.xml
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Crew Briefing Sheet.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\CrewBriefingSheet.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Crew Briefing Sheet.vbproj.GenerateResource.Cache

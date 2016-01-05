@@ -1,0 +1,48 @@
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Release\AutoBatchSelection.exe
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Release\AutoBatchSelection.pdb
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Release\AutoBatchSelection.xml
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Release\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Release\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Release\Interop.Scripting.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Release\ResolveAssemblyReference.cache
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Release\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Release\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Release\Interop.Scripting.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Release\AutoBatchSelection.vbproj.ResolveComReference.cache
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Release\AutoBatchSelection.Resources.resources
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Release\AutoBatchSelection.vbproj.GenerateResource.Cache
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Release\AutoBatchSelection.exe
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Release\AutoBatchSelection.xml
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Release\AutoBatchSelection.pdb
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Debug\AutoBatchSelection.vbproj.ResolveComReference.cache
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Debug\AutoBatchSelection.Resources.resources
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Debug\AutoBatchSelection.vbproj.GenerateResource.Cache
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Debug\AutoBatchSelection.exe
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Debug\AutoBatchSelection.pdb
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Debug\AutoBatchSelection.xml
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Debug\AutoBatchSelection.exe
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Debug\AutoBatchSelection.xml
+D:\Dharmaraj\Addon SDK\AutoBatchSelection\obj\Debug\AutoBatchSelection.pdb
+D:\Dharmaraj\AutoBatchSelection\obj\Debug\AutoBatchSelection.xml
+D:\Dharmaraj\AutoBatchSelection\obj\Debug\AutoBatchSelection.pdb
+D:\Dharmaraj\AutoBatchSelection\bin\Debug\AutoBatchSelection.exe
+D:\Dharmaraj\AutoBatchSelection\bin\Debug\AutoBatchSelection.pdb
+D:\Dharmaraj\AutoBatchSelection\bin\Debug\AutoBatchSelection.xml
+D:\Dharmaraj\AutoBatchSelection\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\AutoBatchSelection\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\AutoBatchSelection\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\AutoBatchSelection\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\AutoBatchSelection\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\AutoBatchSelection\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\AutoBatchSelection\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\AutoBatchSelection\obj\Debug\AutoBatchSelection.vbproj.ResolveComReference.cache
+D:\Dharmaraj\AutoBatchSelection\obj\Debug\AutoBatchSelection.Resources.resources
+D:\Dharmaraj\AutoBatchSelection\obj\Debug\AutoBatchSelection.vbproj.GenerateResource.Cache
+D:\Dharmaraj\AutoBatchSelection\obj\Debug\AutoBatchSelection.exe

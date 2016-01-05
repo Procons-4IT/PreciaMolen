@@ -1,0 +1,32 @@
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\BoM View.exe
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\BoM View.pdb
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\BoM View.xml
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\BoM View.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\BoMView.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\BoM View.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\BoM View.exe
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\BoM View.xml
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\Crew briefing Sheet\BoM Enhancement\obj\Debug\BoM View.pdb
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\obj\Debug\BoM View.exe
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\obj\Debug\BoM View.xml
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\obj\Debug\BoM View.pdb
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\bin\Debug\BoM View.exe
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\bin\Debug\BoM View.pdb
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\bin\Debug\BoM View.xml
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\obj\Debug\BoM View.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\obj\Debug\BoMView.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\BoM Enhancemnet\BoM View\BoM Enhancement\obj\Debug\BoM View.vbproj.GenerateResource.Cache
